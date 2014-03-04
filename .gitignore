@@ -1,0 +1,12 @@
+# cmake build dir
+build
+
+# vim
+*~
+*.swp
+
+# c++ build artifacts
+*.a
+*.s
+*.so
+*.dll

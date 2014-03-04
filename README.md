@@ -22,6 +22,7 @@ Run the tests with:
     mkdir build
     cd build
     cmake ..
+    make
     test/test
     
 You should see a failing test.

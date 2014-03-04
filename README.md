@@ -11,10 +11,10 @@ Just check out this repository, and you have a basic C++ project set up and read
 The project includes:
 * A "shared" `include` directory
 * A submodule within `src` (`module_1`)
-** Compiled to static and shared libraries
+  * Compiled to static and shared libraries
 * Two test submodules
-** One tests `module_1`
-** One is a trivial failing test
+  * One tests `module_1`
+  * One is a trivial failing test
 * A test runner
 
 Run the tests with:

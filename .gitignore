@@ -10,3 +10,4 @@ build
 *.s
 *.so
 *.dll
+*.lib
